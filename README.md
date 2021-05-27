@@ -26,10 +26,11 @@ To run
 After this interact according to query type
 ========================
 ::
-  $ enter query type
-  $ coverage name
-  $ encoding type
-  $ other operations
+    
+      $ enter query type
+      $ coverage name
+      $ encoding type
+      $ other operations
 
 Contributors
 ============
